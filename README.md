@@ -24,20 +24,4 @@ A fun and interactive geography quiz game where users test their knowledge of wo
 - **Hosting**: Localhost (dev)
 
 ---
-## 📂 Project Structure
-mapstermind/
-├── frontend/ # React frontend
-│ └── src/
-│ └── App.jsx # Main app component
-├── backend/ # Node.js backend
-│ ├── routes/
-│ │ └── quiz.routes.js
-│ ├── controllers/
-│ │ └── quiz.controller.js
-│ ├── models/
-│ │ └── quiz.model.js
-│ ├── config/
-│ │ └── db.js # PostgreSQL connection
-│ └── server.js # Express app entry
-└── README.md
 
