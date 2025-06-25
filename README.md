@@ -94,4 +94,3 @@ npm run dev
 ```
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NikhilNaik23/MapsterMind)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
